@@ -1,56 +1,21 @@
-## Pasos y Normas Para Hacer El Uso De Git Correctamente. 
+## COMO CREAR UN REPOSITORIO LOCAL CORRECTAMENTE EN GIT 🔥
 
-## Primer Paso:
+**Pasos para crear tú repositorio local correctamente:
 
-**NOTA**: Antes de empezar a usar Git, es importante configurarlo con tus datos personales para que cada vez que hagas un commit, Git pueda asociarlo con tu identidad. Para hacerlo, utilizas comandos específicos que actualizan el archivo de configuración de Git con esta información.
+1. Primero para  saber en que ubicación estamos se debe de usar el comando pwd.
 
-1. **Como Configurar Tu Nombre de Usuario y Correo Electrónico En Git**
-    
- Para configurar tu nombre y correo electrónico en Git, debes usar estos comandos:
+2. Para crear un repositorio local se tiene que ingresar al proyecto del cual se quiere crear el repositorio.
 
- git config --global user.name "Tu Nombre": Este comando se usa para definir tu nombre de usuario.
+3. Primero se debe ingresar a la carpeta donde tienes todos tus proyectos usando el comando cd nombre_del_directorio.
 
- git config --global user.email "tu.email@ejemplo.com": Este comando se usa para establecer tu correo electrónico.
+4. Luego se debe usar el comando git init  antes de crear el repositio local, ya que sin ese comando no se puede hacer el repositorio local, la función del git init es crear un repositorio vacío para poder crear el repositorio local.
 
- Estos comandos guardarán la información en la configuración global de Git, lo que significa que se aplicarán a todos los repositorios en tu computadora.Y asi podaras usar Git correctamente.
+5. Para ver el proyecto procedemos a ír a carpetas y luego procedemos a ír a donde dice este equipo y luego entras al disco local, buscamos el nombre del proyecto y entramos. Al entrar siempre git lo pone en una carpeta oculta, para poder verlo vas a vista y procedes poniendo la opción elementos ocultos, git aquí siempre pones en la carpeta oculta todos los proyectos creados. Ya sabiendo esto procedemos en git bash.
 
+6. Al tener el comando anterior listo vamos a empezar a añadir los archivos que queremos usar en nuestro proyecto con el siguiente comando, git add f1.txt para poder agregar los archivos que quieres usar en el repositorio.
 
-2. **Como Verificar la Configuración Del Sistema**
+7. Para poder ver los archivos añadidos se debe de usar el siguiente comando git status.
 
-  git config --list: Este comando se usa para verificar la configuración de Git en tu sistema. 
+8. Para poder pasar los archivos al repostirio se debe realizar primero el commit, para esto se debe usar el comando git commit -m”escribes lo que quieras” y ahora si el repositorio local está completamente creado.
 
- Al ejecutar este comando correctamente, podrás ver toda la configuración actual de Git en tu sistema. Busca tu nombre y correo electrónico en la lista para verificar que estén correctos. Si necesitas cambiarlos, simplemente usa los mismos comandos que usaste 
- inicialmente, y eso sobrescribirá los valores anteriores.
-
- **IMPORTANTE**: Es muy iportante tener en cuenta que, en ocasiones, el editor que se abre al ejecutar ciertos comandos en Git puede no permitirte ingresar más comandos directamente. Si esto ocurre, puedes salir del editor presionando la tecla Q (Quit), lo que te
- devolverá a la línea de comandos. 
-
- 3. **Conclusion Del Primer Paso.
-
-    Asegúrate de que tu nombre y correo electrónico siempre estén correctos.
-    
-**Recuerda** : Siempre que uses una computadora diferente, como las de una sala de cómputo, asegúrate de verificar el usuario configurado, ya que el equipo puede ser usado por otras personas y no tener tu información.
-
- ## Segundo paso:
-
-  **como Crear Un Repositorio Local y Realizar El Control De Versiones**
-
-  **🔥 Importante: Cuando crees tus repositorios para el curso, asegúrate de guardarlos en una carpeta fuera de sistemas de almacenamiento en la nube, como OneDrive, para evitar conflictos con Git.
-
-  - En Windows, se recomienda usar la carpeta Documentos. Dentro de esta, crea una nueva carpeta con un nombre distintivo, por ejemplo, Repositorios_NombreCurso.
-
-  - En Mac, puedes crear una carpeta en tu Home.
-
-1. **Como Navegar por los directorios de tu computadora
-
-  Debes Abrir Git Bash si estás en Windows o Terminal en Mac. Luego, debes usar los siguientes comandos. 
-  
-  cd: para moverte entre carpetas.
-  
-  cd ..: para retroceder una carpeta.
-
-  Esto te permitirá ubicarte en el lugar donde quieres guardar tus repositorios.
-
- 
-
-
+9. Para confirmar que todo esté bien se debe de  usar el comando git satus y ahí te indicará que ya no tienes crear ningún commit porque ya está creado todo.
