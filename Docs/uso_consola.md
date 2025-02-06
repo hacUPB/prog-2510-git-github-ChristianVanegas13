@@ -1,14 +1,14 @@
 # COMO USAR LA CONSOLA CORRECTAMENTE EN GIT BASH ☀️
 
-**Para usar correctamente la consola se deb de seguir estós pasos en el orden que se le va a estar dando a continuacion:
+**Para usar correctamente la consola se debe de seguir estós pasos en el orden que se le va a estar dando a continuacion:
 
 **importante: Para todo esto se debe de tener la app Git Bash descargada y lista para seguir los pasos que vienen a continuacion.
 
 1. Primero al entrar a la app Git bash vas a empezar usando el <comando pwd> para saber dónde nos encontramos.
 
-2. Luego utilizamos el <comando cd> esté commando sirve para cambiar de directorio.
+2. Luego utilizamos el <comando cd> esté comando sirve para cambiar de directorio.
 
-3. Luego se usa el <comando ls> esté commando es para listar todos los directorios, carpetas ó archivos que contiene el disco que se está usando.
+3. Luego se usa el <comando ls> esté comando es para listar todos los directorios, carpetas ó archivos que contiene el disco que se está usando.
 
 4. Seguido de esto procedemos a crear un directorio ó carpeta usando el <comando mkdir> seguido con el nombre del directorio que se quiere crear.
 

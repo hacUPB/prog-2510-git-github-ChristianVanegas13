@@ -1,4 +1,4 @@
-# PASOS CORRECTOS PARA CREAR UN REPOSITORIO REMOTO👽
+# COMÓ CREAR UN REPOSITORIO REMOTO👽
 
 ## El paso mas importante es crear tu cuenta de GitHub, lo único que se necesita es un email y contraseña.
 
@@ -15,11 +15,9 @@
 - El siguiente paso es subir el repostorio creado en git bash a GitHub.
 
 - Para este paso lo que se tiene que hacer es copiar el link del repositorio remoto que en este caso se encuentra en GitHub, luego entras a git bash y debes de añadir el repositorio remoto que tienes en GitHub  usando el siguiente
-  <comando git remote add origin "pegas el link"> y así ya se añadido el repositorio remoto al repositorio local.
+  <comando git remote add origin "pegas el link que te dan en GITHUB"> y así ya se añadido el repositorio remoto al repositorio local.
 
-- Luego lo que se debe de hacer es subir el repositorio local al repositorio creado en GitHub, entonces para eso se debe de usar el siguiente <comando git push origin main>.
-
-  Y ya te confirma que tu repositorio local se subió al repositorio creado por GitHub.
+- Luego lo que se debe de hacer es subir el repositorio local al repositorio creado en GitHub, entonces para eso se debe de usar el siguiente <comando git push origin main>, Y ya te confirma que tu repositorio local se subió al repositorio creado por GitHub.
 
 - Luego debes de ir a la página de GitHub y simplemente actualizar la página nuevamente. Y ahí ya te debería mostrar los archivos del repositorio local subido a GitHub.
 

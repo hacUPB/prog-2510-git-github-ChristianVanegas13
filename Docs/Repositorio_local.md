@@ -3,7 +3,7 @@
 
 **Pasos para crear tú repositorio local correctamente:
 
-- Primero para  saber en que ubicación estamos se debe de usar el comando pwd.
+- Primero para  saber en que ubicación estamós se debe de usar el <comando pwd>.
 
 ### Para crear un repositorio local se tiene que ingresar al proyecto del cual se quiere crear el repositorio.
 
@@ -15,7 +15,7 @@
 
   Al entrar siempre git lo pone en una carpeta oculta, para poder verlo, vas a vista y procedes poniendo la opción elementos ocultos, git aquí siempre pone en la carpeta oculta todos los proyectos creados.
 
-  Ya sabiendo esto procedemos en git bash.
+- Ya sabiendo esto procedemos en git bash.
 
 - Al tener el comando <anterior (git init)> listo. Vamos a empezar a añadir los archivos que queremos usar en nuestro proyecto con el siguiente <comando git add "f1.txt"> para poder agregar los archivos que quieres usar en el
 
@@ -37,5 +37,4 @@
 | <comando git status>                            | >Para poder ver los archivos creados.         |
 | <comando git commit -m"escribes lo que quieras">| >Para poder pasar los archivos al repositorio.|
 
-### Importante ver el proyecto primero en carpetas y hacer el uso correcto de los comandos.
-
+### Importante ver el proyecto primero en la carpetas y hacer el uso correcto de los comandos.
