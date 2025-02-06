@@ -1,14 +1,14 @@
-**Nombre del estudiante**:_Christian David Vanegas Carrillo_ 🍺
+**Nombre del estudiante**:_Christian David Vanegas Carrillo_ 🍺 
 
 __Id.__:_000560617_
 
-**Curso**: *Pregrado de Ingeníeria Aeronánautica*
+**Curso**: *Pregrado de Ingeníeria Aeronánautica* 
 
-### Este proyecto se trata de como crear un repositorio en Github y en git bash, tambien de como saber utilizar los comandos en Git bash.
+### Este proyecto se trata de como crear un repositorio en Github y en git bash, tambien de como saber utilizar los comandos en Git bash. 
 
-1. Pues lo primero que hice fue aprenderme las mayorias de los comandos y hacer enfasis en los comandos mas usados ó importante.
+1. Pues lo primero que hice fue aprenderme las mayorias de los comandos y hacer enfasis en los comandos mas usados ó importante. 
 
--  Luego entre al link que nos dieron en evaluácion de la clase para poder clonar vincular mí **Id.** con git Para así trabajar en el direcorio.
+-  Luego entre al link que nos dieron en evaluácion de la clase para poder clonar vincular mí **Id.** con git Para así trabajar en el direcorio. 
 
 - Ejemplo git clone https://github.com/hacUPB/prog-2510-git-github-ChristianVanegas13
 
@@ -41,8 +41,6 @@ __Id.__:_000560617_
 - En el archivo imagenes puedes encontrar el páso correcto para manejar el repositorio correctamente.
 
 - y por ultimo los archivos README.md, donde estoy dando la información concreta de lo que hay en el repositorio.
-
-
 
 ## pasos para usar y clonar esté proyecto:
 
@@ -84,4 +82,3 @@ __Id.__:_000560617_
 
 
 **Haciendo el uso correcto de todos los comandos y todo, podrás navegar tranquilamente en el repositorio.
-
